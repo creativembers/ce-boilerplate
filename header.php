@@ -55,7 +55,7 @@
 
 
 					<nav role="navigation">
-						<?php bones_main_nav(); ?>
+						<?php creativembers_main_nav(); ?>
 					</nav>
 
 				</div> <!-- end #inner-header -->
